@@ -2,8 +2,8 @@
 
 ## edie chatbot a quick run down
 
-as the name suggests
-edie chatbot is the chatbot version of edie there will soon be a python version but for now this will do the job for now
+- as the name suggests
+- edie chatbot is the chatbot version of edie there will soon be a python version but for now this will do the job for now
 
 ## notice
 
@@ -11,4 +11,4 @@ as always i am not responsible for any bans or anything that happens to your acc
 
 # Install and Setup
 
-Replace default values in config and run using ``node chatbot.js``
+- Replace default values in config and run using ``node chatbot.js``
