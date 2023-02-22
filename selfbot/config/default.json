@@ -1,0 +1,17 @@
+{
+    "token": "Token",
+    "prefix": "Prefix!",
+    "owner_id": ["id1","id2"],
+    "useTimeout": "true",
+    "timeout": 15000,
+    "data_path": "C:/path/data",
+    "backup_path": "C:/path/backups",
+    "queue": 0,
+    "pingChance": 0.4,
+    "learnChance": 0.3,
+    "replyFactor": 21000,
+    "wordsToFilter": [],
+    "filter_mode": "blacklist",
+    "learnChannelFilter": [],
+    "sendChannelFilter": []
+}
