@@ -7,5 +7,6 @@
 
 # Install and Setup
 
+- unzip ``node_modules``
 - do not update the node_modules it is using a very old version of discord.js to run as a selfbot 
 - Replace default values in config and run using ``node chatbot.js``
