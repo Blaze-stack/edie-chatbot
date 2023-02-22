@@ -10,5 +10,5 @@
 as always i am not responsible for any bans or anything that happens to your account or computer while using this program i am not responsible for any damage caused by this program or any other program i make or any other program you use you are responsible for your own actions and i am not responsible for any actions you take with this program or any other program i make or any other program you use
 
 # Install and Setup
-
+- unzip ``node_modules``
 - Replace default values in config and run using ``node chatbot.js``
